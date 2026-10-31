@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sarah.dankenbring@web.de
+	name = Sarah Dankenbring
